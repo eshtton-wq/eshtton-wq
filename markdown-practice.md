@@ -6,4 +6,13 @@ I am **weak** because I *walked* `inline code`
 -Learn about A.I job market
     -Learn a little bit about programing 
 1. A saved snaapshot of your changes
-2. Each commit has a messaage about what chaanged
+2. Each commit has a message about what changed
+| Tools | Purpose | Link |
+|------|---------|------|
+| A.I. |         |      |
+|Laptop|         |      |
+
+- [x] Coding proficiency
+- [ ] Model architecture
+- [ ] Master the math
+
