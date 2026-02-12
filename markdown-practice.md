@@ -7,6 +7,7 @@ I am **weak** because I *walked* `inline code`
     -Learn a little bit about programing 
 1. A saved snaapshot of your changes
 2. Each commit has a message about what changed
+
 | Tools | Purpose | Link |
 |-------|---------|------|
 | A.I.  |         |      |
