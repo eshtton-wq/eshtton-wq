@@ -1,6 +1,8 @@
 ## My learning goals
 ### This semester
+
 I am **weak** because I *walked* `inline code`
+
 [link text] (https://github.com/eshtton-wq) [link text] (https://www.tuko.co.ke/)
 -learn A.I.
 -Learn about A.I job market
