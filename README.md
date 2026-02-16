@@ -1,5 +1,5 @@
 # Hi there 👋 I am Eshton
-##About me
+## About me
 I am currently learning Artificial Intelligence in We can academy
 I am interested in learning new things such as A.I. 
 ##Skills Am building
